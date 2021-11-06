@@ -2,6 +2,11 @@
 
 A front-end developer based in Vancouver, Canada.
 
+<!-- GitHub Readme stat -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmytan123&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **jimmytan123/jimmytan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
