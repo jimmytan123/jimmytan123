@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jimmy Tan 👋
+
+A front-end developer based in Vancouver, Canada.
 
 <!--
 **jimmytan123/jimmytan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
