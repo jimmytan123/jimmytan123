@@ -2,6 +2,8 @@
 
 A front-end developer based in Vancouver, Canada.
 
+📫 How to reach me: https://ztan.ca/
+
 <!-- GitHub Readme stat -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmytan123&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
