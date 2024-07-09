@@ -1,6 +1,6 @@
 ### Hi, I'm Jimmy Tan 👋
 
-A front-end developer based in Vancouver, Canada.
+A web developer with a front-end focused based in Vancouver, Canada.
 
 📫 How to reach me: https://ztan.ca/
 
